@@ -1,4 +1,4 @@
-<h1 align="center"> Simple Browser Dev </h1>
+<h1 align="center"> Navegador Simples </h1>
 
 ## 💻 Sobre o projeto
 
