@@ -1,6 +1,6 @@
 # Navegador Simples
 
-Esse projeto teve como base o video do Mayk Brito [Video](https://youtu.be/zy-B9d2ZVrw?list=PL85ITvJ7FLoifcDIBeuuAhh4_799RZaSc)
+Esse projeto teve como base o [Video](https://youtu.be/zy-B9d2ZVrw?list=PL85ITvJ7FLoifcDIBeuuAhh4_799RZaSc) do Mayk Brito. 
 
 ### 💻 Sobre o projeto
 
