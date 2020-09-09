@@ -4,7 +4,7 @@ Esse projeto teve como base o [Video](https://youtu.be/zy-B9d2ZVrw?list=PL85ITvJ
 
 ### 💻 Sobre o projeto
 
-Navegador simples para ajudar nos testes das aplicações web.
+Navegador simples para ajudar nos testes das aplicações web, desenvolvido com [Electron](https://www.electronjs.org/).
 
 ### 🗒 Pré-requisitos
 
