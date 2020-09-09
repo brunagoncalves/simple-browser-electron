@@ -1,6 +1,8 @@
-<h1 align="center"> Navegador Simples </h1>
+# Navegador Simples
 
-## 💻 Sobre o projeto
+Esse projeto teve como base o video do Mayk Brito [Video](https://youtu.be/zy-B9d2ZVrw?list=PL85ITvJ7FLoifcDIBeuuAhh4_799RZaSc)
+
+### 💻 Sobre o projeto
 
 Navegador simples para ajudar nos testes das aplicações web.
 
