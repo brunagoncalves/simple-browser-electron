@@ -1,13 +1,12 @@
 const { app, BrowserWindow, globalShortcut } = require('electron');
-const config = require('./config');
 
-let win = null;
-let contents = null;
+let win;
+let contents;
 
 function createWindow() {
   win = new BrowserWindow({
-    width: config.width,
-    height: config.heigth,
+    width: 400,
+    height: 800,
     alwaysOnTop: true,
     webPreferences: {
       nodeIntegration: true,
@@ -15,7 +14,7 @@ function createWindow() {
   });
 
   win.setMenuBarVisibility(false);
-  win.loadURL('config.url');
+  win.loadURL('http://localhost:5000');
   contents = win.webContents;
 }
 
